@@ -1,1 +1,2 @@
-pip install GPy GPyOpt git+https://github.com/ocelot-collab/ocelot.git pyfftw numexpr numba
+pip install GPy GPyOpt 
+pip install git+https://github.com/ocelot-collab/ocelot.git pyfftw numexpr numba
